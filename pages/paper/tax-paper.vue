@@ -8,21 +8,22 @@
             <v-row
               ><img
                 src="../../assets/imgs/ll-01.png"
-                class="w-100px h-60px"
+                class="w-141px h-47px"
                 alt="sridara Logo"
             /></v-row>
             <v-row style="border-bottom: 1px solid lightgray">
               <v-col cols="8"
                 ><v-sheet style="text-align: left; font-size: 12px">
-                  <div>ห้างหุ้นส่วนจำกัด นิลผกา</div>
+                  <div>บริษัท ศรีดาราทัวร์ จำกัด (สำนักงานใหญ่)</div>
                   <div>
-                    49/175 ม.5 ต.หนองบัว อ.เมืองอุดรธานี จ.อุดรธานี 41000
+                    123 ถนนชยางกูร หมู่ 19 ตำบลบุ่ง อำเภอเมืองอำนาจเจริญ
+                    จังหวัดอำนาจเจริญ 37000
                   </div>
                   <div>
-                    เลขประจำตัวผู้เสียภาษี: 413558001156 | โทร.098-1047644
+                    เลขประจำตัวผู้เสียภาษี: 0375552000037 | โทร.082-365-6514
                   </div>
 
-                  <div><a>www.facebook.com/Jampahomtour</a></div>
+                  <div><a>www.facebook.com/sridaratourfanpage</a></div>
                 </v-sheet></v-col
               >
               <v-col>

@@ -32,10 +32,10 @@
                 <td
                   colspan="1"
                   class="whitespace-nowrap border-r px-2 py-1 dark:border-neutral-500 text-pink-400 font-weight-bold">
-                  <div>NILPAKA TOUR</div>
+                  <div>SRIDARA TOUR</div>
 
                   <div style="font-size: 12px">
-                    Jampahom999@hotmail.com | 098-1047644
+                    Line: @sridaratour | 065-589-9147
                   </div>
                 </td>
                 <td

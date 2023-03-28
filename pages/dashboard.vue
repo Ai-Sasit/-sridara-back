@@ -37,7 +37,7 @@
             class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
             <thead
               class="text-xs"
-              style="background-color: #1e88e5; color: white">
+              style="background-color:darkgreen; color: white">
               <tr>
                 <th scope="col" class="px-6 py-3">ลำดับ</th>
                 <!-- <th scope="col" class="px-6 py-3">วัน เดือน ปี</th> -->

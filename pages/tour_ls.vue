@@ -24,7 +24,7 @@
       <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
         <thead
           class="text-xs text-gray-700 uppercase bg-gray-50 dark:text-gray-400"
-          style="background-color: #0277bd; color: white">
+          style="background-color:darkgreen; color: white">
           <tr>
             <th scope="col" class="px-6 py-3">ชื่อทริปทัวร์</th>
             <th scope="col" class="px-6 py-3">ชื่อโปรแกรมทัวร์</th>

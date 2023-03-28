@@ -11,7 +11,7 @@ const errorNotification = (message: string) => {
   });
 };
 
-const url = "https://nilpaka-be.vercel.app/api/";
+const url = "https://back-end-tour.vercel.app/api/";
 
 export const api = axios.create({
   baseURL: url,
